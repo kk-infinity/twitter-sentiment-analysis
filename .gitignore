@@ -105,3 +105,6 @@ venv.bak/
 
 # jupyter notebook settings
 .ipynb_checkpoints
+
+# project files
+config.py
