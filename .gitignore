@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# jupyter notebook settings
+.ipynb_checkpoints
